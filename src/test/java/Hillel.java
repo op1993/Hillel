@@ -10,7 +10,8 @@ public class Hillel {
         //   hillel.buildPyramid(5);
         // System.out.println(hillel.getSumOfMultiples(4));
         //hillel.returnDomain("https://www.google.com/test/test");
-        hillel.is(new int[]{2, 1, 12, 55555, 5}, 55556);
+   //     hillel.is(new int[]{2, 1, 12, 55555, 5}, 55556);
+        hillel.countWords("How much     words?");
     }
 
     private String returnDomain(String url) {
@@ -62,4 +63,22 @@ public class Hillel {
         System.out.println(res);
         return res;
     }
+
+    public  int countWords(String str){
+        if(str == null || str.isEmpty())
+            return 0;
+
+        int count = 0;
+        for(int e = 0; e < str.length(); e++){
+            if(str.charAt(e) != ' '){
+                count++;
+                while(str.charAt(e) != ' ' && e < str.length()-1){
+                    e++;
+                }
+            }
+        }
+        System.out.println(count);
+        return count;
+    }
 }
+g
