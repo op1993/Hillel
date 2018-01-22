@@ -1,4 +1,4 @@
 .idea/
 hillel.iml
-pom.xml
 target/
+/src/test/java/ReadDataFromFile2.java
