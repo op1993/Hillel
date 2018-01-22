@@ -1,32 +1,23 @@
-import java.util.Date;
+import java.time.LocalDate;
 import java.util.List;
 
 /**
  * Created by Oleh on 15-Jan-18.
  */
 public class LogInfo {
-    Date date2;
-    List<String> listOfId;
+    LocalDate date;
+    List<String> id;
 
-    public LogInfo(Date date2, List<String> listOfId) {
-        this.date2 = date2;
-        this.listOfId = listOfId;
+    public LogInfo(LocalDate date, List<String> id) {
+        this.date = date;
+        this.id = id;
     }
 
-    public List<String> getListOfId() {
-        return listOfId;
+    public LocalDate getDate() {
+        return date;
     }
 
-    public void setListOfId(List<String> listOfId) {
-        this.listOfId = listOfId;
-    }
-
-
-    public Date getDate2() {
-        return date2;
-    }
-
-    public void setDate2(Date date2) {
-        this.date2 = date2;
+    public List<String> getId() {
+        return id;
     }
 }
