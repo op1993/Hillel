@@ -1,71 +1,141 @@
-Log time: Tue, 16 Aug 2016 06:19:51 GMT
-
-
-Log time: Tue, 16 Aug 2016 06:49:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
- Captured transactions: None
-  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600
-
-
-Log time: Tue, 16 Aug 2016 07:19:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 12:43:13 GMT
+ Asset id: 321
  Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
-
-
-Log time: Tue, 16 Aug 2016 07:49:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+  Google-1,Google-2,Google-3,Google-64
+ Asset id: 6057
  Captured transactions:
-  O365-294,O365-4,O365-43,O365-44,O365-445,O365-5,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600,O365-67,O365-73,O365-74,O365-88
+  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
 
 
-Log time: Tue, 16 Aug 2016 08:19:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 13:13:13 GMT
+
+
+Log time: Mon, 07 Aug 2017 13:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 14:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 14:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 15:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 15:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 16:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 16:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 17:26:31 GMT
+ Asset id: 307
  Captured transactions:
-  O365-114,O365-156,O365-209,O365-25,O365-273,O365-43,O365-44,O365-445,O365-45,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600,O365-67,O365-74,O365-77
+  O365-10,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
 
 
-Log time: Tue, 16 Aug 2016 08:49:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 17:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 18:26:31 GMT
+ Asset id: 274
  Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
+  SForce-1,SForce-2
 
 
-Log time: Tue, 16 Aug 2016 09:19:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 18:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 19:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 19:56:31 GMT
+ Asset id: 6037
  Captured transactions:
-  O365-20,O365-43,O365-44,O365-445,O365-474,O365-507,O365-509,O365-51,O365-519,O365-52,O365-53,O365-552,O365-600,O365-67
+  defau-1
 
 
-Log time: Tue, 16 Aug 2016 09:49:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 20:26:31 GMT
+ Asset id: 307
  Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-600
+  O365-10,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
 
 
-Log time: Tue, 16 Aug 2016 10:19:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Log time: Mon, 07 Aug 2017 20:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 21:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 21:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 22:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 22:56:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 23:26:31 GMT
+
+
+Log time: Mon, 07 Aug 2017 23:56:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 00:26:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 00:56:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 01:26:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 01:56:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 02:26:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 02:56:31 GMT
+
+
+Log time: Tue, 08 Aug 2017 03:26:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 03:56:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 04:26:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 04:56:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 05:26:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 05:56:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 06:26:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 06:56:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 07:26:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 07:56:29 GMT
+
+
+Log time: Tue, 08 Aug 2017 08:26:29 GMT
+ Asset id: 321
  Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
+  Google-1,Google-2,Google-3,Google-64
 
 
-Log time: Tue, 16 Aug 2016 10:49:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
- Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
-
-
-Log time: Tue, 16 Aug 2016 11:19:51 GMT
- Asset id: 538
- Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
- Captured transactions:
-  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
